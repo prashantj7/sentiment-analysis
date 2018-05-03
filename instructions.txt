@@ -1,0 +1,10 @@
+Start mongo in cmd - mongod
+
+Run python server in module1
+python index-old.py
+
+Run Node server in module2
+node server.js
+
+Connect from browser : http://localhost:8080/
+Visualization at http://localhost:8080/viz

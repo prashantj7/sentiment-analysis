@@ -1,0 +1,1329 @@
+[
+   {
+      "id":"543732631_10151984679807632",
+      "from":{
+         "name":"Gillian Robinson",
+         "id":"543732631"
+      },
+      "to":{
+         "data":[
+            {
+               "name":"Vivien Mickey Storey",
+               "id":"1209484512"
+            }
+         ]
+      },
+      "with_tags":{
+         "data":[
+            {
+               "name":"Vivien Mickey Storey",
+               "id":"1209484512"
+            }
+         ]
+      },
+      "story":"Gillian Robinson is drinking beer at The Boot Inn.",
+      "story_tags":{
+         "0":[
+            {
+               "id":"543732631",
+               "name":"Gillian Robinson",
+               "offset":0,
+               "length":16,
+               "type":"user"
+            }
+         ],
+         "29":[
+            {
+               "id":"336568296412899",
+               "name":"beer",
+               "offset":29,
+               "length":4,
+               "is_og_composer_object":true
+            }
+         ],
+         "37":[
+            {
+               "id":"246735712138915",
+               "name":"The Boot Inn",
+               "offset":37,
+               "length":12,
+               "type":"page"
+            }
+         ]
+      },
+      "privacy":{
+         "value":""
+      },
+      "place":{
+         "id":"246735712138915",
+         "name":"The Boot Inn",
+         "location":{
+            "street":"18 St James Street",
+            "city":"Burnley",
+            "state":"",
+            "country":"United Kingdom",
+            "zip":"BB11 1NG",
+            "latitude":53.7888249382,
+            "longitude":-2.24080413625
+         }
+      },
+      "type":"status",
+      "application":{
+         "name":"Mobile",
+         "id":"2915120374"
+      },
+      "created_time":"2014-01-31T13:00:28+0000",
+      "updated_time":"2014-01-31T13:00:28+0000"
+   },
+   {
+      "id":"722140173_10153790060985174",
+      "from":{
+         "name":"Sarah Williamson",
+         "id":"722140173"
+      },
+      "to":{
+         "data":[
+            {
+               "name":"Leah Mcshane",
+               "id":"100000822300928"
+            }
+         ]
+      },
+      "with_tags":{
+         "data":[
+            {
+               "name":"Leah Mcshane",
+               "id":"100000822300928"
+            }
+         ]
+      },
+      "message":"Pints galore!! Sure start as we mean to go on!!",
+      "privacy":{
+         "value":""
+      },
+      "place":{
+         "id":"143475392364374",
+         "name":"O'Neill's Newcastle",
+         "location":{
+            "street":"38 Neville Street",
+            "city":"Newcastle upon Tyne",
+            "state":"",
+            "country":"United Kingdom",
+            "zip":"NE1 5DF",
+            "latitude":54.969234443577,
+            "longitude":-1.6173299953658
+         }
+      },
+      "type":"status",
+      "application":{
+         "name":"Facebook for iPhone",
+         "namespace":"fbiphone",
+         "id":"6628568379"
+      },
+      "created_time":"2014-01-31T13:00:21+0000",
+      "updated_time":"2014-01-31T13:00:21+0000"
+   },
+   {
+      "id":"596791810341971_686591764695308",
+      "from":{
+         "name":"Andy Gellis",
+         "id":"541730835"
+      },
+      "to":{
+         "data":[
+            {
+               "name":"ANDY's Jewish-Cajun Fusion Food Discussion",
+               "id":"596791810341971"
+            }
+         ]
+      },
+      "message":"Jewish-Chinese Fusion Beef short ribs (flanken) with tomatoes, bell pepper and onion\n\nThis is one of the most delicious beef stew type dishes I've ever made. I conjured this recipe the other day because I wanted to invoke the flavor of a dish that I used to eat a long time ago at Hung Fat's in NYC. My HS buddies and I used to drive there from New Rochelle at 2AM after drinking beer all night to get our late night chinese fix and this is what we used to have there. HA!\n\nTheir version is more of a chinese sauteed beef with tomatoes served over noodles. While this version didn't end up quite like the stuff at Hung Fat, and  it turned out to be more of a Jewish-Chinese Fusion Pepper steak, the result was sensational. Part of the reason for this is the braising of the flanken over high heat, and then the sauteeing of the vegetables over it and mixing in with the flanken... and If you've not used flanken before, you're missing out on one of the most flavorful beefs. It's the reason why flanken is  used in so many Jewish dishes - the flavor it incorporates into a dish is like what no other beef can do.",
+      "picture":"http://photos-b.ak.fbcdn.net/hphotos-ak-frc3/t1/379669_10151834466170836_1575413771_s.jpg",
+      "link":"http://www.facebook.com/photo.php?fbid=10151834466170836&set=gm.686591764695308&type=1&relevant_count=1",
+      "icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+      "actions":[
+         {
+            "name":"Like",
+            "link":"http://www.facebook.com/596791810341971/posts/686591764695308"
+         }
+      ],
+      "privacy":{
+         "value":""
+      },
+      "type":"photo",
+      "object_id":"10151834466170836",
+      "created_time":"2014-01-31T13:00:19+0000",
+      "updated_time":"2014-01-31T13:01:40+0000",
+      "comments":{
+         "data":[
+            {
+               "id":"686592374695247",
+               "from":{
+                  "name":"Andy Gellis",
+                  "id":"541730835"
+               },
+               "message":"STUFF\n\n1 lb. bone-in flanken, bones removed, fat trimmed, and cut into slices about 1/4 inch thick\n1/2 bell pepper, sliced into strips\n1/2 cup sweet onion, sliced\n5 cl garlic, chopped\n2 medium tomatoes, sliced thick and each slice cut into quarters\n2 tbsp x-virgin olive oil\n2 tbsp soy sauce\n1 tbsp hoisin sauce\n1 ts ground coriander\n1/2 ts black pepper\n2 ts sriracha - or to taste\n1/2 ts salt\n1/2 cup veal or beef broth (Kitchen Basics rec)\n1/2 cup water\n1/2 cup white or red wine\n3  tbsp flour\n3 cups cooked PA dutch wide noodles",
+               "can_remove":false,
+               "created_time":"2014-01-31T13:01:07+0000",
+               "like_count":0,
+               "user_likes":false
+            },
+            {
+               "id":"686592541361897",
+               "from":{
+                  "name":"Andy Gellis",
+                  "id":"541730835"
+               },
+               "message":"MAKE\n\nAdd olive oil to a large saute pan. Heat to smoking. Add flanken pieces and coat with the olive oil. Sprinlke salt and pepper and the coriander on the beef. Saute on high for 4-5 minutes until all beef is brasied. Add onions and peppers and saute for another 4-5 minutes. Deglaze pan with the wine and scrape all little bits off the bottom of the pan. Turn pan to low.\n\nMix the flour with the veal broth and water and whisk until the flour dissolves and add to the pan. Add the soy sauce, hoisin, sriracha. Stir well and turn to low. Cover and simmer for 20-30 minutes. Add the sliced tomatoes and simmer for five more minutes.\n\nThrow about two cups of the PA dutch noodles into the  pan. Stir for 2-3 minutes until mixed well. Add more water if you run out of liquid. This dish should have enough sauce to cover the noodles. Serve.",
+               "can_remove":false,
+               "created_time":"2014-01-31T13:01:40+0000",
+               "like_count":0,
+               "user_likes":false
+            }
+         ],
+         "paging":{
+            "cursors":{
+               "after":"Njg2NTkyNTQxMzYxODk3",
+               "before":"Njg2NTkyMzc0Njk1MjQ3"
+            }
+         }
+      }
+   },
+   {
+      "id":"135376688227_10151948037642444",
+      "from":{
+         "category":"Radio station",
+         "category_list":[
+            {
+               "id":"1210",
+               "name":"Radio Station"
+            }
+         ],
+         "name":"93.9 MIA",
+         "id":"135376688227"
+      },
+      "to":{
+         "data":[
+            {
+               "category":"Sports event",
+               "name":"Super Bowl",
+               "id":"105595769475370"
+            }
+         ]
+      },
+      "message":"What's your fav Super Bowl snack?",
+      "message_tags":{
+         "16":[
+            {
+               "id":"105595769475370",
+               "name":"Super Bowl",
+               "type":"page",
+               "offset":16,
+               "length":10
+            }
+         ]
+      },
+      "picture":"http://external.ak.fbcdn.net/safe_image.php?d=AQCUS_d6WS3kuLlz&w=154&h=154&url=https%3A%2F%2Fscontent-a-iad.xx.fbcdn.net%2Fhphotos-prn2%2Ft1%2F1512803_10152643013928228_1467854965_n.jpg",
+      "link":"http://www.939mia.com/articles/wiodam-local-news-122821/food-beer-big-tv-super-bowl-12021618/",
+      "name":"Food, Beer, Big TV: Super Bowl Party Must Haves",
+      "caption":"www.939mia.com",
+      "description":"It's time to get the goodies together for the Super Bowl festivities.",
+      "icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+      "privacy":{
+         "value":""
+      },
+      "type":"link",
+      "created_time":"2014-01-31T13:00:00+0000",
+      "updated_time":"2014-01-31T13:00:00+0000"
+   },
+   {
+      "id":"100000087180217_723123521033881",
+      "from":{
+         "name":"Erika Patricia Mendiola",
+         "id":"100000087180217"
+      },
+      "message":"Finally! I learned to say \"No\" to beer! Wahahahaha!",
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "application":{
+         "name":"Mobile",
+         "id":"2915120374"
+      },
+      "created_time":"2014-01-31T13:00:00+0000",
+      "updated_time":"2014-01-31T13:03:44+0000"
+   },
+   {
+      "id":"100001856868725_609309209140969",
+      "from":{
+         "name":"Cody Sherrick",
+         "id":"100001856868725"
+      },
+      "to":{
+         "data":[
+            {
+               "name":"Greg Weiler",
+               "id":"100000001337577"
+            },
+            {
+               "name":"Billy Hester",
+               "id":"1750069932"
+            }
+         ]
+      },
+      "with_tags":{
+         "data":[
+            {
+               "name":"Greg Weiler",
+               "id":"100000001337577"
+            },
+            {
+               "name":"Billy Hester",
+               "id":"1750069932"
+            }
+         ]
+      },
+      "message":"“Leaders can’t afford to make fools of themselves, gulping wine and swilling beer, Lest, hung over, they don’t know right from wrong, and the people who depend on them are hurt. Use wine and beer only as sedatives, to kill the pain and dull the ache Of the terminally ill, for whom life is a living death. (Proverbs 31:4-7 MSG)",
+      "privacy":{
+         "value":""
+      },
+      "place":{
+         "id":"137683231034",
+         "name":"Lansing Teen Challenge / Sister's Maternity Center",
+         "location":{
+            "street":"510 W. Willow St.",
+            "city":"Lansing",
+            "state":"MI",
+            "country":"United States",
+            "zip":"48906",
+            "latitude":42.749241,
+            "longitude":-84.558716
+         }
+      },
+      "type":"status",
+      "application":{
+         "name":"Facebook for iPhone",
+         "namespace":"fbiphone",
+         "id":"6628568379"
+      },
+      "created_time":"2014-01-31T12:59:49+0000",
+      "updated_time":"2014-01-31T13:00:57+0000"
+   },
+   {
+      "id":"657713445_10152157949673446",
+      "from":{
+         "name":"Stacey Phillimore",
+         "id":"657713445"
+      },
+      "story":"Stacey Phillimore shared Awesome Videos's video.",
+      "story_tags":{
+         "0":[
+            {
+               "id":"657713445",
+               "name":"Stacey Phillimore",
+               "offset":0,
+               "length":17,
+               "type":"user"
+            }
+         ],
+         "25":[
+            {
+               "id":"313150198785409",
+               "name":"Awesome Videos",
+               "offset":25,
+               "length":14,
+               "type":"page"
+            }
+         ]
+      },
+      "picture":"http://scontent.xx.fbcdn.net/hvthumb-frc3/t15/1394618_452493888184372_452493471517747_60519_1743_t.jpg",
+      "link":"http://www.facebook.com/photo.php?v=452493471517747",
+      "source":"http://video.ak.fbcdn.net/hvideo-ak-ash3/v/t42/1050622_452493858184375_432501129_n.mp4?oh=2457fccd09a86c6fb0c0887388b71db7&oe=52ED9B5A&__gda__=1391307348_d986801a284448bcc1a8b3ed3d0efca4",
+      "description":"Ultimate Beer Dispenser",
+      "properties":[
+         {
+            "name":"Length",
+            "text":"1:09"
+         }
+      ],
+      "icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+      "privacy":{
+         "value":""
+      },
+      "type":"video",
+      "object_id":"452493471517747",
+      "application":{
+         "name":"Facebook for iPad",
+         "namespace":"fbipad_",
+         "id":"173847642670370"
+      },
+      "created_time":"2014-01-31T12:59:30+0000",
+      "updated_time":"2014-01-31T12:59:30+0000"
+   },
+   {
+      "id":"643820424_10153842231405425",
+      "from":{
+         "name":"Ryan McMahon",
+         "id":"643820424"
+      },
+      "to":{
+         "data":[
+            {
+               "name":"Grizzly Adams",
+               "id":"100002907974632"
+            },
+            {
+               "name":"Dayna McAlpine",
+               "id":"100002785753330"
+            },
+            {
+               "name":"Matthew Findlay",
+               "id":"100000348377307"
+            },
+            {
+               "name":"Patrick Boland",
+               "id":"1754936101"
+            },
+            {
+               "name":"Jay Maybry",
+               "id":"1509866774"
+            },
+            {
+               "name":"Holly Drummond",
+               "id":"1145064102"
+            },
+            {
+               "name":"Gordon J Millar",
+               "id":"1004484988"
+            },
+            {
+               "name":"Kirstin Gribbin",
+               "id":"875150388"
+            },
+            {
+               "name":"Davie Easton",
+               "id":"767349921"
+            },
+            {
+               "name":"Joshua Aaron Porter",
+               "id":"725307886"
+            },
+            {
+               "name":"Gary Cassidy",
+               "id":"696360119"
+            },
+            {
+               "name":"David LindaBeard Macleod",
+               "id":"665292314"
+            },
+            {
+               "name":"Lewis Simister",
+               "id":"651452350"
+            },
+            {
+               "name":"Adam Evans",
+               "id":"592906929"
+            },
+            {
+               "name":"George Black",
+               "id":"571256496"
+            },
+            {
+               "name":"John Cuthbert",
+               "id":"564601333"
+            },
+            {
+               "name":"Claire-Louise Fergus",
+               "id":"559067934"
+            },
+            {
+               "name":"Tommy Cairns",
+               "id":"533907840"
+            },
+            {
+               "name":"Kirstin Norma Beaton",
+               "id":"530590313"
+            },
+            {
+               "name":"Barrington James Xavier Reeves",
+               "id":"512132583"
+            },
+            {
+               "name":"Gwilym Pugh",
+               "id":"511879872"
+            },
+            {
+               "name":"Gregor Miller",
+               "id":"507119230"
+            },
+            {
+               "name":"Sheri Scott",
+               "id":"503660869"
+            },
+            {
+               "name":"Fraser Brown",
+               "id":"500424332"
+            }
+         ]
+      },
+      "with_tags":{
+         "data":[
+            {
+               "name":"Grizzly Adams",
+               "id":"100002907974632"
+            },
+            {
+               "name":"Dayna McAlpine",
+               "id":"100002785753330"
+            },
+            {
+               "name":"Matthew Findlay",
+               "id":"100000348377307"
+            },
+            {
+               "name":"Patrick Boland",
+               "id":"1754936101"
+            },
+            {
+               "name":"Jay Maybry",
+               "id":"1509866774"
+            },
+            {
+               "name":"Holly Drummond",
+               "id":"1145064102"
+            },
+            {
+               "name":"Gordon J Millar",
+               "id":"1004484988"
+            },
+            {
+               "name":"Kirstin Gribbin",
+               "id":"875150388"
+            },
+            {
+               "name":"Davie Easton",
+               "id":"767349921"
+            },
+            {
+               "name":"Joshua Aaron Porter",
+               "id":"725307886"
+            },
+            {
+               "name":"Gary Cassidy",
+               "id":"696360119"
+            },
+            {
+               "name":"David LindaBeard Macleod",
+               "id":"665292314"
+            },
+            {
+               "name":"Lewis Simister",
+               "id":"651452350"
+            },
+            {
+               "name":"Adam Evans",
+               "id":"592906929"
+            },
+            {
+               "name":"George Black",
+               "id":"571256496"
+            },
+            {
+               "name":"John Cuthbert",
+               "id":"564601333"
+            },
+            {
+               "name":"Claire-Louise Fergus",
+               "id":"559067934"
+            },
+            {
+               "name":"Tommy Cairns",
+               "id":"533907840"
+            },
+            {
+               "name":"Kirstin Norma Beaton",
+               "id":"530590313"
+            },
+            {
+               "name":"Barrington James Xavier Reeves",
+               "id":"512132583"
+            },
+            {
+               "name":"Gwilym Pugh",
+               "id":"511879872"
+            },
+            {
+               "name":"Gregor Miller",
+               "id":"507119230"
+            },
+            {
+               "name":"Sheri Scott",
+               "id":"503660869"
+            },
+            {
+               "name":"Fraser Brown",
+               "id":"500424332"
+            }
+         ]
+      },
+      "message":"Today is the day! Hero's will be made, fools will be shown, collabs will be planned, malt will be sipped, beer will be slugged, kisses will be shared but most importantly...FUN SHALL BE FUCKING HAD! Scotstreetstyle parrrrrtttaaayyyyy. See you handsome bastards at the bar😉",
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "application":{
+         "name":"Facebook for iPhone",
+         "namespace":"fbiphone",
+         "id":"6628568379"
+      },
+      "created_time":"2014-01-31T12:59:12+0000",
+      "updated_time":"2014-01-31T13:00:24+0000"
+   },
+   {
+      "id":"100000929916207_711978268843164",
+      "from":{
+         "name":"Clare Skinner",
+         "id":"100000929916207"
+      },
+      "to":{
+         "data":[
+            {
+               "name":"Kerry Winter",
+               "id":"100000931240105"
+            },
+            {
+               "name":"Marilyn Blowers",
+               "id":"100001062134936"
+            },
+            {
+               "name":"Christa Beer",
+               "id":"627057145"
+            }
+         ]
+      },
+      "message":"I Needed to go back up to The Railway today&i did it ...Areal sense of calm there i felt.Miss you Anneka Curtis we will Be back soon.Thanku Kerry Winter Marilyn Blowers Christa Beer for the company x",
+      "message_tags":{
+         "98":[
+            {
+               "id":"1226795605",
+               "name":"Anneka Curtis",
+               "type":"user",
+               "offset":98,
+               "length":13
+            }
+         ],
+         "140":[
+            {
+               "id":"100000931240105",
+               "name":"Kerry Winter",
+               "type":"user",
+               "offset":140,
+               "length":12
+            }
+         ],
+         "153":[
+            {
+               "id":"100001062134936",
+               "name":"Marilyn Blowers",
+               "type":"user",
+               "offset":153,
+               "length":15
+            }
+         ],
+         "169":[
+            {
+               "id":"627057145",
+               "name":"Christa Beer",
+               "type":"user",
+               "offset":169,
+               "length":12
+            }
+         ]
+      },
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "application":{
+         "name":"Facebook for iPhone",
+         "namespace":"fbiphone",
+         "id":"6628568379"
+      },
+      "created_time":"2014-01-31T12:59:10+0000",
+      "updated_time":"2014-01-31T13:04:28+0000"
+   },
+   {
+      "id":"120707504635329_10201540869025473",
+      "from":{
+         "category":"Non-profit organization",
+         "category_list":[
+            {
+               "id":"2603",
+               "name":"Non-Profit Organization"
+            }
+         ],
+         "name":"RIPAC",
+         "id":"120707504635329"
+      },
+      "story":"RIPAC shared a link.",
+      "story_tags":{
+         "0":[
+            {
+               "id":"120707504635329",
+               "name":"RIPAC",
+               "offset":0,
+               "length":5,
+               "type":"page"
+            }
+         ]
+      },
+      "picture":"http://external.ak.fbcdn.net/safe_image.php?d=AQA150Z0HnEJMJ6q&w=154&h=154&url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FBfGFYR9CAAEp-wB.png",
+      "link":"http://twitter.com/MarijuanaPolicy/status/428270091751260160/photo/1/large?utm_source=fb&utm_medium=fb&utm_campaign=Jonjuan007&utm_content=428588020745637888",
+      "name":"Twitter / MarijuanaPolicy: Beer. Football. Safer. Check ...",
+      "caption":"twitter.com",
+      "description":"Instantly connect to what's most important to you. Follow your friends, experts, favorite celebrities, and breaking news.",
+      "icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+      "privacy":{
+         "value":""
+      },
+      "type":"link",
+      "application":{
+         "name":"Links",
+         "id":"2309869772"
+      },
+      "created_time":"2014-01-31T12:59:08+0000",
+      "updated_time":"2014-01-31T12:59:08+0000"
+   },
+   {
+      "id":"105767436121812_705771979454685",
+      "from":{
+         "category":"Local business",
+         "category_list":[
+            {
+               "id":"139460309451166",
+               "name":"Religious Center"
+            }
+         ],
+         "name":"First Universalist Society of Salem",
+         "id":"105767436121812"
+      },
+      "message":"This Sunday: Mia Poppe Mountain will be our guest in the pulpit. \n\nMia will be speaking about \"Imbolc, A time to Honor Brighid, Goddess and Saint, and the First Stirrings of the Celtic Spring.\"  \n\nImbolc in modern Irish comes from the words \"in the belly\"-- to which wiccans respond \"Winter is now pregnant with Summer.\"  The medieval scribes glossed the term as Oimelc, meaning \"ewe's milk.\"  Imbolc/Oimelc was the time when sheep began to produce milk, a hopeful sign to the Celts that summer would come eventually, even if it would be slow in coming. Brighid the Goddess was accompanied by sacred oxen.  Brighid the Saint had a sacred cow.  So it's not coincidence that her holy day would be conflated with Imbolc and celebrated no only with beer and grain treats, but cheese and milk and butter tool.  \n\nShe plans to talk about the appeal of St. Brighid (whose legends have roots in the Celtic Goddess) in terms of practical domestic happiness, agrarian simplicity, as well as political revolution--albeit of the quiet subversive sort.",
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "created_time":"2014-01-31T12:59:06+0000",
+      "updated_time":"2014-01-31T12:59:06+0000",
+      "shares":{
+         "count":1
+      }
+   },
+   {
+      "id":"100000506049582_808835889143272",
+      "from":{
+         "name":"Mariel Asis",
+         "id":"100000506049582"
+      },
+      "message":"Chill! \nAt home!",
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "application":{
+         "name":"Facebook for Android",
+         "namespace":"fbandroid",
+         "id":"350685531728"
+      },
+      "created_time":"2014-01-31T12:59:05+0000",
+      "updated_time":"2014-01-31T12:59:05+0000"
+   },
+   {
+      "id":"317195320554_10152549644929368",
+      "from":{
+         "category":"Sports/recreation/activities",
+         "category_list":[
+            {
+               "id":"181108811925394",
+               "name":"Horses"
+            }
+         ],
+         "name":"Seneca Ridge Trakehners",
+         "id":"317195320554"
+      },
+      "message":"http://www.huffingtonpost.com/2014/01/29/budweiser-super-bowl-2014-puppy-love-clydedale_n_4688484.html\n\ntime for my annual Budweiser promotion.....\n",
+      "picture":"http://external.ak.fbcdn.net/safe_image.php?d=AQDoSs9FT7TAgkt8&w=154&h=154&url=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1590780%2Fthumbs%2Fo-BUDWEISER-facebook.jpg",
+      "link":"http://www.huffingtonpost.com/2014/01/29/budweiser-super-bowl-2014-puppy-love-clydedale_n_4688484.html",
+      "name":"Best Beer Ad Ever",
+      "caption":"www.huffingtonpost.com",
+      "description":"Still tearing up over last year's Budweiser ad? Get ready, because this might be their most beautiful Clydesdale commercial to date.",
+      "icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/SC2ZmEkfI-X.png",
+      "privacy":{
+         "value":""
+      },
+      "type":"link",
+      "created_time":"2014-01-31T12:58:33+0000",
+      "updated_time":"2014-01-31T12:58:33+0000",
+      "likes":{
+         "data":[
+            {
+               "id":"100000027019346",
+               "name":"Maria Lamping"
+            }
+         ],
+         "paging":{
+            "cursors":{
+               "after":"MTAwMDAwMDI3MDE5MzQ2",
+               "before":"MTAwMDAwMDI3MDE5MzQ2"
+            }
+         }
+      }
+   },
+   {
+      "id":"1501846037_10203178454851172",
+      "from":{
+         "name":"Paul Lowe",
+         "id":"1501846037"
+      },
+      "message":"Nearly beer o'clock!!!!!!!!!",
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "application":{
+         "name":"Facebook for iPhone",
+         "namespace":"fbiphone",
+         "id":"6628568379"
+      },
+      "created_time":"2014-01-31T12:58:32+0000",
+      "updated_time":"2014-01-31T12:58:32+0000"
+   },
+   {
+      "id":"9749412158_10152141421632159",
+      "from":{
+         "category":"Church/religious organization",
+         "name":"Guaba Beach Bar",
+         "id":"9749412158"
+      },
+      "message":"At Guaba Beach Bar, we know that we have the best crowd in the world!\n \nDJ Mag's Top 100 Clubs, is the best guide to the world's most incredible and fun churches of dance music. Each year, DJ Mag puts out this list of Top 100 Clubs. Voting is commenced and the winner is determined by the supreme dance floor crowds who vote to rank the clubs. Most important of all--YOU!!\n \nCast your vote now! You want Guaba Beach Bar to be rated at the top, so cast your vote now before you miss out on the fun of voting. It's easy and it only takes a minute on Facebook.\n \nVote for your favorite club in the world, on your favorite island in the world, with the best deejays in the world. Guaba Beach Bar's Global Rank for 2013 was No. 15, but everyone knows that our crowd belongs at the top of the list. So it's time vote for Guaba as the #1 Club in the world and take advantage of this opportunity to put Cyprus on the map again!\n \nVoting for the DJ Mag Top 100 clubs in the world ends on February 27 and the day after the voting closes will be our Carnival Party in order to celebrate the carnival and the end of the voting campaign .The Guaba Carnival Party is presented by Absolut Vodka and Deejay Radio beginning of February 28, 2014, and coinciding with the famous Limassol Carnival. Even though the beach isn't open yet, the Guaba family wants to celebrate so we'll be doing it at Club 11, just like we did for New Year's Eve.\n \nThe success of our New Year's Party led to the decision throw this carnival party in honor of our Guaba family. Are you proud to be a Guabian? Why not celebrate the Carnival together with the best crowd in the world? We wouldn't have it any other way!\n \nYou and your dancing friends will absolutely not want to miss this Carnival Party on February 28. Complete with a variety of entertainers such as the Guaba Clown, Mr. Styles, DJ Janus, Geeos, Jenia, Swordfish, and Asmo Brothers, this is going to be one DJ party you must be part of. Dress up and come over for free entry from 21.00 until 24.00. The location is Club 11: Ampelakion Street Yermasogia 4046, Limassol, Cyprus.\n \nFollowing the Carnival, Guaba sponsors and hosts the Limassol Marathon after party, on Sunday 16th of March. Over 8000 people are expected to attend the marathon this year and Guaba will organize the after party with DJs, live bands, and cold beers. Plan to be part of this marathon celebration!\n \nFor those of you who can't WAIT for Guaba's Opening Fiesta this 2014 summer season, mark your calendars for May 4th. This year's summer dancing and party scene at Guaba will be better than ever before. With more DJs, more dancing, more themes, more entertainment, more party, and more fun. We are adding new and exciting surprises to make you, our Guaba family, our number one priority. And if you've never been to Guaba before, well, now is the time to make your plans for our May 4, 2014 opening.\n \nLinks: http://djmag.com/top100clubs\nhttps://apps.facebook.com/toponehundredclubs/",
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "application":{
+         "name":"Pages Manager for iOS",
+         "namespace":"fbpagemanager_ios",
+         "id":"165907476854626"
+      },
+      "created_time":"2014-01-31T12:58:23+0000",
+      "updated_time":"2014-01-31T12:58:23+0000",
+      "likes":{
+         "data":[
+            {
+               "id":"607680995",
+               "name":"Christos Constantinou"
+            },
+            {
+               "id":"795404791",
+               "name":"Emy Damianou"
+            },
+            {
+               "id":"100005026682591",
+               "name":"Guaba Reggae Monday"
+            },
+            {
+               "id":"36702716",
+               "name":"Christakis Evripidou"
+            },
+            {
+               "id":"100004309869923",
+               "name":"Marina Charalambous"
+            },
+            {
+               "id":"1065063878",
+               "name":"George Asmo Nicodemou"
+            },
+            {
+               "id":"1821836111",
+               "name":"George-Ch Panayi"
+            },
+            {
+               "id":"773610396",
+               "name":"Mr.Styles Mathews"
+            },
+            {
+               "id":"1759317044",
+               "name":"Anni Klinteva"
+            },
+            {
+               "id":"519356094820536",
+               "name":"DEEP HOUSE"
+            }
+         ],
+         "paging":{
+            "cursors":{
+               "after":"NTE5MzU2MDk0ODIwNTM2",
+               "before":"NjA3NjgwOTk1"
+            }
+         }
+      }
+   },
+   {
+      "id":"100000671814804_725845357447851",
+      "from":{
+         "name":"Vanessa Watson",
+         "id":"100000671814804"
+      },
+      "message":"This is wonderful!",
+      "picture":"http://external.ak.fbcdn.net/safe_image.php?d=AQDoSs9FT7TAgkt8&w=154&h=154&url=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1590780%2Fthumbs%2Fo-BUDWEISER-facebook.jpg",
+      "link":"http://www.huffingtonpost.com/2014/01/29/budweiser-super-bowl-2014-puppy-love-clydedale_n_4688484.html",
+      "name":"Best Beer Ad Ever",
+      "caption":"www.huffingtonpost.com",
+      "description":"Still tearing up over last year's Budweiser ad? Get ready, because this might be their most beautiful Clydesdale commercial to date.",
+      "icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/SC2ZmEkfI-X.png",
+      "privacy":{
+         "value":""
+      },
+      "type":"link",
+      "application":{
+         "name":"Links",
+         "id":"2309869772"
+      },
+      "created_time":"2014-01-31T12:58:11+0000",
+      "updated_time":"2014-01-31T12:59:24+0000"
+   },
+   {
+      "id":"1030720811_10202002993649673",
+      "from":{
+         "name":"Katie LaComb",
+         "id":"1030720811"
+      },
+      "message":"Doesn't everyone carry diet root beer in their handbag?",
+      "picture":"http://external.ak.fbcdn.net/safe_image.php?d=AQAsVmb1qPgSKOgv&w=154&h=154&url=http%3A%2F%2Fimg2-2.timeinc.net%2Fpeople%2Fi%2F2014%2Fnews%2F140210%2Fjessica-simpson-600.jpg",
+      "link":"http://www.people.com/people/article/0,,20781654,00.html",
+      "name":"Jessica Simpson Brings Her Own Drinks to Dinner",
+      "caption":"www.people.com",
+      "description":"The singer and her pals talk business and toast to new beginnings at new N.Y.C. eatery Costata",
+      "icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/SC2ZmEkfI-X.png",
+      "privacy":{
+         "value":""
+      },
+      "type":"link",
+      "application":{
+         "name":"Facebook for iPhone",
+         "namespace":"fbiphone",
+         "id":"6628568379"
+      },
+      "created_time":"2014-01-31T12:57:21+0000",
+      "updated_time":"2014-01-31T13:02:35+0000"
+   },
+   {
+      "id":"502311994_10152257740421995",
+      "from":{
+         "name":"Leila Kirk",
+         "id":"502311994"
+      },
+      "message":"Beer and roulette = no money",
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "application":{
+         "name":"Facebook for iPhone",
+         "namespace":"fbiphone",
+         "id":"6628568379"
+      },
+      "created_time":"2014-01-31T12:57:17+0000",
+      "updated_time":"2014-01-31T12:58:29+0000"
+   },
+   {
+      "id":"281422054683_10202189905220729",
+      "from":{
+         "category":"Restaurant/cafe",
+         "category_list":[
+            {
+               "id":"164049010316507",
+               "name":"Gastropub"
+            },
+            {
+               "id":"218693881483234",
+               "name":"Pub"
+            }
+         ],
+         "name":"Swig - Perrysburg",
+         "id":"281422054683"
+      },
+      "to":{
+         "data":[
+            {
+               "category":"Local business",
+               "category_list":[
+                  {
+                     "id":"174832985894571",
+                     "name":"Yoga & Pilates"
+                  }
+               ],
+               "name":"lululemon athletica Toledo Showroom",
+               "id":"604254362927821"
+            }
+         ]
+      },
+      "message":"Our neighbors just down the street, lululemon athletica Toledo Showroom...\n\nOur thought is,  Yoga before beer, never fear. Beer before yoga, …um… not that we want to sound like Robin Thicke... what rhymes with yoga? We'll get back to you on this. For now just stick with \"yoga before beer, never fear.\"",
+      "message_tags":{
+         "36":[
+            {
+               "id":"604254362927821",
+               "name":"lululemon athletica Toledo Showroom",
+               "type":"page",
+               "offset":36,
+               "length":35
+            }
+         ]
+      },
+      "story":"Swig - Perrysburg shared lululemon athletica Toledo Showroom's photo.",
+      "story_tags":{
+         "0":[
+            {
+               "id":"281422054683",
+               "name":"Swig - Perrysburg",
+               "offset":0,
+               "length":17,
+               "type":"page"
+            }
+         ],
+         "25":[
+            {
+               "id":"604254362927821",
+               "name":"lululemon athletica Toledo Showroom",
+               "offset":25,
+               "length":35,
+               "type":"page"
+            }
+         ]
+      },
+      "picture":"http://photos-c.ak.fbcdn.net/hphotos-ak-prn1/t1/1653633_727049160648340_648539133_s.jpg",
+      "link":"http://www.facebook.com/photo.php?fbid=727049160648340&set=a.605261839493740.1073741828.604254362927821&type=1",
+      "name":"Timeline Photos",
+      "caption":"No need to change. Emily and Mike can go straight to Swig - Perrysburg after their yoga class Tonic Maumee. Light-weight, moisture-wicking fabrics keep them cool in class and cozy brushed luon keeps them warm on their way to dinner. Stop in Friday or Saturday, we open at 11am! — at lululemon athletica Toledo Showroom.",
+      "properties":[
+         {
+            "name":"By",
+            "text":"lululemon athletica Toledo Showroom",
+            "href":"http://www.facebook.com/lululemontoledoshowroom?ref=stream"
+         }
+      ],
+      "icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+      "privacy":{
+         "value":""
+      },
+      "type":"photo",
+      "object_id":"727049160648340",
+      "application":{
+         "name":"Photos",
+         "id":"2305272732"
+      },
+      "created_time":"2014-01-31T12:57:17+0000",
+      "updated_time":"2014-01-31T12:57:17+0000",
+      "likes":{
+         "data":[
+            {
+               "id":"1667865492",
+               "name":"Kristi Marie"
+            }
+         ],
+         "paging":{
+            "cursors":{
+               "after":"MTY2Nzg2NTQ5Mg==",
+               "before":"MTY2Nzg2NTQ5Mg=="
+            }
+         }
+      }
+   },
+   {
+      "id":"263379220373866_10152222817229406",
+      "from":{
+         "category":"Local business",
+         "category_list":[
+            {
+               "id":"188662441155211",
+               "name":"Community & Government"
+            }
+         ],
+         "name":"Charleroi Coworking",
+         "id":"263379220373866"
+      },
+      "story":"Charleroi Coworking shared a link.",
+      "story_tags":{
+         "0":[
+            {
+               "id":"263379220373866",
+               "name":"Charleroi Coworking",
+               "offset":0,
+               "length":19,
+               "type":"page"
+            }
+         ]
+      },
+      "picture":"http://external.ak.fbcdn.net/safe_image.php?d=AQAvaAsZ4-hRALZk&w=154&h=154&url=http%3A%2F%2Febmedia.eventbrite.com%2Fs3-s3%2Fstatic%2Fimages%2Fdjango%2Flogos%2Feb_home_tm-trans-fb.png",
+      "link":"http://www.eventbrite.com/e/betagroup-event-45-belgian-tech-entrepreneurs-tickets-10170416991",
+      "name":"BetaGroup Event #45 - Belgian Tech Entrepreneurs",
+      "caption":"www.eventbrite.com",
+      "description":"  The BetaGroup is a community of 7.000 Belgian entrepreneurs passionate about Internet, Software and Online Media. Our meetings are free and open to all the community: Entrepreneurs, Innovators, Coders, Designers, Business Angels, Bloggers, Journalists  and Policy Makers.    At 7PM, 6 early stage s...",
+      "icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+      "privacy":{
+         "value":""
+      },
+      "type":"link",
+      "application":{
+         "name":"Links",
+         "id":"2309869772"
+      },
+      "created_time":"2014-01-31T12:57:14+0000",
+      "updated_time":"2014-01-31T12:57:14+0000",
+      "shares":{
+         "count":1
+      }
+   },
+   {
+      "id":"100000468183308_816940621664870",
+      "from":{
+         "name":"Jimmy Mht",
+         "id":"100000468183308"
+      },
+      "to":{
+         "data":[
+            {
+               "name":"Zakk Grg",
+               "id":"1027972872"
+            }
+         ]
+      },
+      "with_tags":{
+         "data":[
+            {
+               "name":"Zakk Grg",
+               "id":"1027972872"
+            }
+         ]
+      },
+      "story":"Jimmy Mht is drinking beer at Bahama Mama's.",
+      "story_tags":{
+         "0":[
+            {
+               "id":"100000468183308",
+               "name":"Jimmy Mht",
+               "offset":0,
+               "length":9,
+               "type":"user"
+            }
+         ],
+         "22":[
+            {
+               "id":"336568296412899",
+               "name":"beer",
+               "offset":22,
+               "length":4,
+               "is_og_composer_object":true
+            }
+         ],
+         "30":[
+            {
+               "id":"195458857135849",
+               "name":"Bahama Mama's",
+               "offset":30,
+               "length":13,
+               "type":"page"
+            }
+         ]
+      },
+      "privacy":{
+         "value":""
+      },
+      "place":{
+         "id":"195458857135849",
+         "name":"Bahama Mama's",
+         "location":{
+            "street":"尖沙咀諾士佛臺4-5號地下",
+            "city":"Tsim Sha Tsui",
+            "country":"Hong Kong",
+            "zip":"",
+            "latitude":22.30098679704,
+            "longitude":114.17341538077
+         }
+      },
+      "type":"status",
+      "application":{
+         "name":"Facebook for iPhone",
+         "namespace":"fbiphone",
+         "id":"6628568379"
+      },
+      "created_time":"2014-01-31T12:57:06+0000",
+      "updated_time":"2014-01-31T12:57:06+0000"
+   },
+   {
+      "id":"1381796618_10203147886282975",
+      "from":{
+         "name":"Tracey Schefano",
+         "id":"1381796618"
+      },
+      "message":"Had a dream that Paris Hilton picked me up at my childhood home and drove me to Tyrone Mall for some lunch and shopping.  Then I find myself sitting next to Yoko Ono at a spa getting a manny/petty with her giving me beauty tips!  I guess beer and tomato basle potato chips aren't the best dinner choice...",
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "application":{
+         "name":"Facebook for iPhone",
+         "namespace":"fbiphone",
+         "id":"6628568379"
+      },
+      "created_time":"2014-01-31T12:56:53+0000",
+      "updated_time":"2014-01-31T13:01:01+0000"
+   },
+   {
+      "id":"517945308_10152209039980309",
+      "from":{
+         "name":"Jon Elliott",
+         "id":"517945308"
+      },
+      "to":{
+         "data":[
+            {
+               "name":"Luke Read",
+               "id":"614187399"
+            }
+         ]
+      },
+      "message":"love my random phonecalls from Luke Read he says lets get on the beer san then we randomely start rapping n beatboxing lol",
+      "message_tags":{
+         "31":[
+            {
+               "id":"614187399",
+               "name":"Luke Read",
+               "type":"user",
+               "offset":31,
+               "length":9
+            }
+         ]
+      },
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "created_time":"2014-01-31T12:56:52+0000",
+      "updated_time":"2014-01-31T13:03:04+0000"
+   },
+   {
+      "id":"1666283080_10200801188306475",
+      "from":{
+         "name":"Ana Alves",
+         "id":"1666283080"
+      },
+      "story":"Ana Alves shared Roniel Rafael II's photo.",
+      "story_tags":{
+         "0":[
+            {
+               "id":"1666283080",
+               "name":"Ana Alves",
+               "offset":0,
+               "length":9,
+               "type":"user"
+            }
+         ],
+         "17":[
+            {
+               "id":"100003010338111",
+               "name":"Roniel Rafael II",
+               "offset":17,
+               "length":16,
+               "type":"user"
+            }
+         ]
+      },
+      "picture":"http://photos-h.ak.fbcdn.net/hphotos-ak-prn1/t1/1601062_479916458785361_1819383712_s.jpg",
+      "link":"http://www.facebook.com/photo.php?fbid=479916458785361&set=a.118546091589068.20812.100003010338111&type=1",
+      "name":"Timeline Photos",
+      "caption":"Sábado tem Roniel e Rafael na Road Beer... \n\n#uiadoro #souseumeubem #sucesso   #roadbeer",
+      "properties":[
+         {
+            "name":"By",
+            "text":"Roniel Rafael II",
+            "href":"http://www.facebook.com/ronielrafaelII"
+         }
+      ],
+      "icon":"http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+      "privacy":{
+         "value":""
+      },
+      "type":"photo",
+      "object_id":"479916458785361",
+      "application":{
+         "name":"Photos",
+         "id":"2305272732"
+      },
+      "created_time":"2014-01-31T12:55:53+0000",
+      "updated_time":"2014-01-31T12:59:22+0000"
+   },
+   {
+      "id":"134079176381_10152154633511382",
+      "from":{
+         "category":"Local business",
+         "category_list":[
+            {
+               "id":"203743122984241",
+               "name":"Beer Garden"
+            },
+            {
+               "id":"188296324525457",
+               "name":"Sandwich Shop"
+            }
+         ],
+         "name":"Biedermans Deli and Pub",
+         "id":"134079176381"
+      },
+      "to":{
+         "data":[
+            {
+               "category":"Company",
+               "name":"Pond Hockey Classic",
+               "id":"161928693353"
+            }
+         ]
+      },
+      "message":"Open Mic. Tonight, Come on down and share Your Talents, or cheer on some of you Local Buds! Starting at 7, come down early to get a spot!\n\nLocal's Pond Hockey Classic Starts Today, Good Luck! We'll be cheering you on! Come on down and get a Zamboa and Beer after with your Favorite Brew Crew!\n\nSpecial of the Day\nBiederman's Sour Cream and Chicken Enchiladas! Topped off with melted Shredded Pepper Jack, Salsa, Lettuce and Tomato! Kick it Up a Notch with Banana Peppers, Jalapenos or Black Bean Salad.\n\nSpecial Salad\nApplewood Smoked Chicken Breast and Brie on a bed of Spinach with Carmelized Walnuts, Carrots, Cucumbers, Red and Green Peppers, Red Onions, Tomatoes and Red Wine Vinaigrette.\n\nSoup of the Day\nHaddock Chowder [contains gluten and dairy] - Served with Bread and Butter\n\nBeef and Bean Chili [gluten and dairy free] - Served with Crackers",
+      "message_tags":{
+         "147":[
+            {
+               "id":"161928693353",
+               "name":"Pond Hockey Classic",
+               "type":"page",
+               "offset":147,
+               "length":19
+            }
+         ]
+      },
+      "privacy":{
+         "value":""
+      },
+      "type":"status",
+      "created_time":"2014-01-31T12:55:47+0000",
+      "updated_time":"2014-01-31T12:55:47+0000",
+      "likes":{
+         "data":[
+            {
+               "id":"530407418",
+               "name":"Morgan Brynn McGuire"
+            },
+            {
+               "id":"1135774323",
+               "name":"Keri Ann"
+            }
+         ],
+         "paging":{
+            "cursors":{
+               "after":"MTEzNTc3NDMyMw==",
+               "before":"NTMwNDA3NDE4"
+            }
+         }
+      }
+   }
+]
